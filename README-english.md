@@ -704,22 +704,23 @@ _Herramientas que utilizaste para crear tu proyectoTools you used to develop the
 - [Alchemy](https://dashboard.alchemy.com) - Interface/API to the Goerli Tesnet Network
 - [Xubuntu](https://xubuntu.org/) - Operating system based on Ubuntu distribution
 - [Goerli Testnet](https://goerli.etherscan.io) - Web system used to verify transactions, verify 
-contracts, deploy contracts, verify and publish contract source code, etc.
+  contracts, deploy contracts, verify and publish contract source code, etc.
 - [Solidity](https://soliditylang.org ) Object-oriented programming language for implementing smart 
-contracts on various blockchain platforms
+  contracts on various blockchain platforms
 - [Hardhat](https://hardhat.org) - Environment developers use to test, compile, deploy and debug dApps 
-based on the Ethereum blockchain
+  based on the Ethereum blockchain
 - [GitHub](https://github.com/) - Internet hosting service for software development and version 
-control using Git
+  control using Git
 - [Goerli Faucet](https://goerlifaucet.com/) - Faucet used to obtain ETH used in the tests to deploy 
-the SmartContrat as well as to interact with them.
+  the SmartContrat as well as to interact with them.
 - [MetaMask](https://metamask.io) - MetaMask is a software cryptocurrency wallet used to interact with 
-the Ethereum blockchain.
+  the Ethereum blockchain.
+
 
 ## Contributing 🖇️
 
-Please read the [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) for details of our code 
-of conduct, and the process for submitting pull requests to us.
+Please read the [CONTRIBUTING.md](https://gist.github.com/llabori-venehsoftw/xxxxxx) for details of our 
+code of conduct, and the process for submitting pull requests to us.
 
 ## Wiki 📖
 

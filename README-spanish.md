@@ -730,7 +730,7 @@ desafio_
 
 ## Contribuir 🖇️
 
-Por favor, lee [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para más detalles sobre
+Por favor, lee [CONTRIBUTING.md](https://gist.github.com/llabori-venehsoftw/xxxxxx) para más detalles sobre
 nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Wiki 📖
